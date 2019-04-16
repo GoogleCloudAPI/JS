@@ -18,4 +18,3 @@ var canOnlyFireOnce = once(function() {
 
 canOnlyFireOnce(); // "Fired!"
 canOnlyFireOnce(); // nada
-

@@ -1,3 +1,1 @@
-(function () {
-    alert(xss);
-})();
+alert(/DO NOT BE BAD/);
